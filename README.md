@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- My names Joey and I love listening to music 😄
 
-# Portfolio
-Heres my [portfolio](https://jpobletejr.com/) 
- 
+ Hi there 👋
 
-| 🎵 Now Playing                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://open.spotify.com/track/0qiYnY0y5P9gqq6THGzhaI?si=15a911f00325454c"><img src="https://i.scdn.co/image/ab67616d0000b27395f79828718c93ab2aea1e23" width="140" height="140"></a> |
-| [Another dimension](https://open.spotify.com/track/0qiYnY0y5P9gqq6THGzhaI?si=15a911f00325454c) |  
+    😄 My name is Joey Naval Poblete Jr.
+    🔭 I’m currently working on [jpobzy/TuneRip](https://github.com/jpobzy/TuneRip)
+    📫 You can reach me via email at: jnpobletejr@gmail.com.
+
+
