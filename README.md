@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
 **jpobzy/jpobzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
- Hi there 👋
-
-    😄 My name is Joey Naval Poblete Jr.
-    🔭 I’m currently working on [jpobzy/TuneRip](https://github.com/jpobzy/TuneRip)
-    📫 You can reach me via email at: jnpobletejr@gmail.com.
-
+   - 😄 My name is Joey Naval Poblete Jr.
+   - 🔭 I’m currently working on [jpobzy/TuneRip](https://github.com/jpobzy/TuneRip)
+   - 📫 You can reach me via email at: jnpobletejr@gmail.com.
 
